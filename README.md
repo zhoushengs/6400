@@ -10,3 +10,10 @@ Proposal|June 7th
 Interim |June 15th
 Final PPT |June 24th
 
+## Proposal/Plan Presentation: June 7th•
+1. Reprise Goal, make more precise
+2. What & Why•Rough design of what the user sees [Mock-ups of screens](https://moqups.com)
+3. Block Diagram overview of planned code•
+    - Top down
+    - With short prose description of each
+    - Should be linked to the scree
