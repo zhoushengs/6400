@@ -10,6 +10,9 @@
  2. how often should it be calibrated according to the standard operation procedure
  3. where can I find the historical calibration record
 
+So, with our app (Machine learning + Database), auditor can easily get all these information. Quality assurance can then be improved in the long term: the auditor can conduct more efficient/accurate auditing, patients and car owners can have better quality products, and factories will have less recalls.
+
+
 ## 2. Expertise Link
 - **Zhimo** is an expert in machine learning, and he is also a Phd student who’s interest is soft computing.
 - **Yaowen** is an America Society of Quality certified Quality Engineer with 2 years pre-clinical anti-cancer drug research experience under regulation of FDA and 4 years automotive manufacturing experience under regulation of TS16949-ISO9001. 
